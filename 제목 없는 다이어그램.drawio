@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T08:41:59.143Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="InmDeH9V1ZxrbHYCQN53" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-16T08:50:54.487Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="HmJXpdf6gUhkfgutITxI" version="21.6.8" type="github">
   <diagram name="페이지-1" id="bvTVibgiDuEDHJILuOyL">
-    <mxGraphModel dx="916" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1825" dy="1514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
           <mxGeometry x="82.28" y="590" width="76.5" height="93" as="geometry" />
         </mxCell>
         <mxCell id="u04vyOH46lW2TNKSIiP_-30" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.icon-icons.com/icons2/2699/PNG/512/axios_logo_icon_168546.png;" vertex="1" parent="1">
-          <mxGeometry x="350" y="583" width="200" height="100" as="geometry" />
+          <mxGeometry x="250" y="590" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="u04vyOH46lW2TNKSIiP_-32" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.namu.wiki/i/Ib6zelAaPWrR1tATdncVmqazLGKK0qQ6kN9MkWAcn5IFZcerUiaetsCX12HHP4OccmL76aWHqNu7IyClTHFhOtyFhZXKwtEZsBjd9P9vqHT0AEqYS8QAJnOXy9NTt_hkGWaFUiVov6K63W3B6jfAbw.svg;" vertex="1" parent="1">
           <mxGeometry x="37.94" y="760" width="132.28" height="90" as="geometry" />
@@ -55,6 +55,30 @@
             <Array as="points">
               <mxPoint x="121" y="724" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u04vyOH46lW2TNKSIiP_-39" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png;" vertex="1" parent="1">
+          <mxGeometry x="1061" y="70" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="u04vyOH46lW2TNKSIiP_-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u04vyOH46lW2TNKSIiP_-44" target="u04vyOH46lW2TNKSIiP_-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u04vyOH46lW2TNKSIiP_-44" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://bestprogrammer.ru/wp-content/uploads/2021/09/Izuchenie-Vite-cherez-ego-ishodnyj-kod-696x400.jpg;" vertex="1" parent="1">
+          <mxGeometry x="1055.3" y="250" width="191.4" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="u04vyOH46lW2TNKSIiP_-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u04vyOH46lW2TNKSIiP_-46" target="u04vyOH46lW2TNKSIiP_-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u04vyOH46lW2TNKSIiP_-46" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.icon-icons.com/icons2/2699/PNG/512/reactjs_logo_icon_170805.png;" vertex="1" parent="1">
+          <mxGeometry x="1051" y="430" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="u04vyOH46lW2TNKSIiP_-48" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Person.svg;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="408" width="96.2" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="u04vyOH46lW2TNKSIiP_-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1360" y="480" as="sourcePoint" />
+            <mxPoint x="1275" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
